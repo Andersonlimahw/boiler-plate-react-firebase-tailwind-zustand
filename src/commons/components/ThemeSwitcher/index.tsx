@@ -23,7 +23,7 @@ export const ThemeSwitcher = () => {
     }
 
     return (
-        <DropdownMenu.Root>
+        <DropdownMenu.Root data-testid="theme_switcher_container">
             <DropdownMenu.Trigger asChild>
                 <button className="ml-5 flex" aria-label="Theme switcher">
                     <Palette color="#f1f1f1" size={32} />
