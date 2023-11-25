@@ -120,6 +120,8 @@ Open link in your favorite your browser:
 
 ![](./public/demo/demo-home.png)
 
+![Alt text](image.png)
+
 ## Run tests
 
 ```sh
