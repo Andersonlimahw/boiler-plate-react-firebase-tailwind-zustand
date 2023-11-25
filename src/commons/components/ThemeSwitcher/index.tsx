@@ -37,6 +37,7 @@ export const ThemeSwitcher = () => {
                             <DropdownMenu.Item 
                                 className="cursor-pointer p-3 inline-block flex-1 hover:shadow-lg hover:font-bold"
                                 onClick={() => handleThemeChange(themeItem)}
+                                key={themeItem}
                             >
                                 {themeItem}
                             </DropdownMenu.Item>

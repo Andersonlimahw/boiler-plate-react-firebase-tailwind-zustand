@@ -1,3 +1,4 @@
+// REF: https://github.com/vitest-dev/vitest/blob/main/examples/react-testing-lib
 import { describe, expect, it } from 'vitest';
 import { render, screen } from '../../utils/tests';
 

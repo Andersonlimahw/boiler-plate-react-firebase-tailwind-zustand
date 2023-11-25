@@ -40,10 +40,10 @@
  
 
 
-> Boilerplate : PWA project using vite, react, context Api, jest and firebase
+> Boilerplate : PWA project using vite, react, context Api, vitest and firebase
 
 
-### ✨ [Demo](https://lemon-todo-list.vercel.app/)
+### ✨ [Demo](https://lemon-firebase-chat-sample.vercel.app)
 
 Look a project using this boilerplate
 
@@ -74,7 +74,7 @@ Customize pages how you need!
 
 * zustand for state management
 
-* JEST for unit tests and code coverage collect
+* Vitest for unit tests and code coverage collect
 
 
 ## Boilerplates
@@ -133,9 +133,8 @@ npm run test
 [zustand](https://github.com/pmndrs/zustand)
 [typescript](https://www.typescriptlang.org/docs/)
 [firebase](https://firebase.google.com/docs)
-[jest](https://jestjs.io/docs/getting-started)
+[vitest](https://vitest.dev/)
 [tailwindcss](https://tailwindcss.com/docs/animation)
-
 
 ## Author
 
